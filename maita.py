@@ -1,6 +1,0 @@
-print("hello")
-print ("my name is Maitaishe chinembiri")
-print("i am 5 years old")
-print("i am a girl")
-print("i learn at once upon a child primary school")
-print("my teacher is mrs mapholisa")
